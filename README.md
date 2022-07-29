@@ -3,17 +3,17 @@
 # Trash-Collector
 http://trash-collector.art/
 
-Describe your project. Tell the visitor **What**, **Why** and **How** you did it. Maybe add a **Who** you are and who else was involved. Get wild here. It is the first thing a visitor of a repo sees.
-
 ## What
-Trash-Collector is a game where you control a spaceship. Your mission is to get rid of all the trash in space. You do that by shooting the trash with a laser. Your goal basically is to get the highest score without dying. If the trash hits you or it leaves the screen, you lose. The longer you play the faster it gets. There is different kinds of trash. From some you get many points when you shoot it. Some trash even influences the gameplay in different ways.
+Trash-Collector is a game where you control a spaceship. Your mission is to get rid of all the trash in space. You do that by shooting the trash with a laser. Your goal basically is to get the highest score without dying. If the trash hits you or it leaves the screen, you lose. The longer you play the faster it gets. There is different kinds of trash. From some you get many points when you shoot it. Some trash even influences the gameplay in different ways. Find out for yourself.
 
 ## Why
+In one of my classes our goal was to make a "useless website" (e.g.:https://theuselessweb.com/). I wanted to learn coding in a fun way. So i made game with a humorful touch.
 
 ## How
-I used Code from https://linz.coderdojo.net/uebungsanleitungen/programmieren/web/space-shooter-mit-p5js/ as a Base. I'm still a beginner so this tutorial helped and i learned a lot #notsponsored. Then I added to the code and put my own spin on it. I converted it, so that it almost fits all screen sizes. After that I added a score system and more "asteroids" (more trash). By changing and adding some variables, most "asteroids" influence the game differently from each other when you shoot them or touch them with your spaceship. 
+I used Code from https://linz.coderdojo.net/uebungsanleitungen/programmieren/web/space-shooter-mit-p5js/ as a Base. I'm still a beginner so this tutorial helped and i learned a lot #notsponsored. Then I added to the code and put my own spin on it. I converted it, so that it fits almost all screen sizes. After that I added a score system and more "asteroids" (more trash). By changing and adding some variables, most "asteroids" influence the game differently from each other when you shoot them or touch them with your spaceship. 
 
 ## Who
+
 
 ## Sources
 https://linz.coderdojo.net/uebungsanleitungen/programmieren/web/space-shooter-mit-p5js/
